@@ -62,7 +62,7 @@
 			<PluginId>$(AssemblyName)</PluginId>
 			<PluginName>$(AssemblyName)</PluginName>
 
-			<ProjectSource>https://github.com/ErisApps/CatCore</ProjectSource>
+			<ProjectSource>https://github.com/lyyQwQ/CatCore</ProjectSource>
 			<Donate>https://www.patreon.com/erisapps</Donate>
 			<!--<PluginIcon>Path/to/icon.png</PluginIcon>-->
 			<!-- Namespace of [Plugin] class if not root. -->

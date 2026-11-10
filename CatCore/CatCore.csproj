@@ -30,7 +30,7 @@
 		<Authors>Eris</Authors>
 		<Version>1.1.0</Version>
 		<Copyright>Copyright © Eris 2022</Copyright>
-		<PackageProjectUrl>https://github.com/ErisApps/CatCore</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/lyyQwQ/CatCore</PackageProjectUrl>
 	</PropertyGroup>
 
     <ItemGroup>
